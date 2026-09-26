@@ -1,0 +1,7 @@
+numpy
+scipy
+matplotlib
+librosa>=0.10
+pyarrow
+scikit-learn
+torch>=2.6
